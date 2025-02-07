@@ -7,7 +7,7 @@ This project showcases my Instagram Reels photos. Click on each image to view th
 **Instagram Gallery
 
 
-**My profile
+**My profile : https://www.instagram.com/sujith_nihar?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
 
 [![profile 1](https://github.com/Sujith-Nihar/travel_videos/blob/main/Screenshot%202025-02-07%20at%203.54.03%E2%80%AFPM.png)](https://www.instagram.com/sujith_nihar?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
